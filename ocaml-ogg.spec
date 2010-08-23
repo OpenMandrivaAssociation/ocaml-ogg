@@ -1,6 +1,6 @@
 Name:           ocaml-ogg
-Version:        0.3.1
-Release:        %mkrel 2
+Version:        0.4.0
+Release:        %mkrel 1
 Summary:        OCaml bindings for the Ogg bitstream library
 License:        LGPL with exceptions
 Group:          Development/Other
