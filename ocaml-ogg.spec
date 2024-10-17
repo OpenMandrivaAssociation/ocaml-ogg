@@ -4,7 +4,7 @@ Release:        3
 Summary:        OCaml bindings for the Ogg bitstream library
 License:        LGPL with exceptions
 Group:          Development/Other
-URL:            http://sourceforge.net/projects/savonet/files/
+URL:            https://sourceforge.net/projects/savonet/files/
 Source0:        http://downloads.sourceforge.net/savonet/ocaml-ogg/ocaml-ogg-%{version}.tar.gz
 BuildRequires:  ocaml-findlib
 BuildRequires:  ocaml
